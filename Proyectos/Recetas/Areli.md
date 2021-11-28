@@ -23,6 +23,7 @@ para los pasos e ingredientes pudiste haber usado `h2`
 Entiendo que posiblemente tuviste alguna razón para ello, pero pudiste haberla especificado en un comentario html
 * En `horchata.html` línea 9 escribiste `width"400"`, de nuevo un error tipográfico, ya que debió haber sido `width="400"`
 * La etiqueta `title` de los cuatro documentos es la misma: `Document`, pienso que pudiste haber elegido un `title` más amigable con los usuarios
+* Las recetas no tienen el encabezado Descripción
 
 | Rubro | Parcial | Peso | Puntos |
 | -- | -- | -- | -- |
@@ -30,6 +31,6 @@ Entiendo que posiblemente tuviste alguna razón para ello, pero pudiste haberla 
 | Existe un archivo html con el nombre de cada receta | 10 | 0.1 | 1.0 |
 | Cada archivo con la receta incluye un `h1` con el nombre de la receta | 10 | 0.1 | 1.0 |
 | Existe y funciona correctamente un link en `index.html` con el nombre de la receta | 10 | 0.3 | 3.0 |
-| Cada receta cumple con la estructura adecuada | 7 | 0.2 | 1.4 |
+| Cada receta cumple con la estructura adecuada | 6 | 0.2 | 1.2 |
 | Existen al menos tres recetas y sus respectivos links funcionando | 10 | 0.2 | 2.0 |
-| **Total** | -- | -- | 9.4 |
+| **Total** | -- | -- | 9.2 |

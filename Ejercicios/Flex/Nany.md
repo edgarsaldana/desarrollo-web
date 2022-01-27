@@ -25,5 +25,5 @@
 | Hay 16 pixeles entre cada elemento en ambos lados del header | 9 | 2 | 1.8 |
 | flex es utilizado para ordenar todo | 10 | 2 | 2.0 |
 | **Total** | -- | -- | 9.2 |
-* No existe algo que indique una separaci{on de 8 pixeles entre el borde y **todos** los elemntos dentro
+* No existe algo que indique una separación de 8 pixeles entre el borde y **todos** los elemntos dentro
 * No hay 16 pixeles de separación entre el logo y los links
